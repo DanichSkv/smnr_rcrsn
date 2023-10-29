@@ -1,0 +1,15 @@
+W:\Docs\GB\VS_code\C#\Smnr_#9_(Rcrsn)\task_66\obj\Debug\net6.0\task_66.csproj.AssemblyReference.cache
+W:\Docs\GB\VS_code\C#\Smnr_#9_(Rcrsn)\task_66\obj\Debug\net6.0\task_66.GeneratedMSBuildEditorConfig.editorconfig
+W:\Docs\GB\VS_code\C#\Smnr_#9_(Rcrsn)\task_66\obj\Debug\net6.0\task_66.AssemblyInfoInputs.cache
+W:\Docs\GB\VS_code\C#\Smnr_#9_(Rcrsn)\task_66\obj\Debug\net6.0\task_66.AssemblyInfo.cs
+W:\Docs\GB\VS_code\C#\Smnr_#9_(Rcrsn)\task_66\obj\Debug\net6.0\task_66.csproj.CoreCompileInputs.cache
+W:\Docs\GB\VS_code\C#\Smnr_#9_(Rcrsn)\task_66\bin\Debug\net6.0\task_66.exe
+W:\Docs\GB\VS_code\C#\Smnr_#9_(Rcrsn)\task_66\bin\Debug\net6.0\task_66.deps.json
+W:\Docs\GB\VS_code\C#\Smnr_#9_(Rcrsn)\task_66\bin\Debug\net6.0\task_66.runtimeconfig.json
+W:\Docs\GB\VS_code\C#\Smnr_#9_(Rcrsn)\task_66\bin\Debug\net6.0\task_66.dll
+W:\Docs\GB\VS_code\C#\Smnr_#9_(Rcrsn)\task_66\bin\Debug\net6.0\task_66.pdb
+W:\Docs\GB\VS_code\C#\Smnr_#9_(Rcrsn)\task_66\obj\Debug\net6.0\task_66.dll
+W:\Docs\GB\VS_code\C#\Smnr_#9_(Rcrsn)\task_66\obj\Debug\net6.0\refint\task_66.dll
+W:\Docs\GB\VS_code\C#\Smnr_#9_(Rcrsn)\task_66\obj\Debug\net6.0\task_66.pdb
+W:\Docs\GB\VS_code\C#\Smnr_#9_(Rcrsn)\task_66\obj\Debug\net6.0\task_66.genruntimeconfig.cache
+W:\Docs\GB\VS_code\C#\Smnr_#9_(Rcrsn)\task_66\obj\Debug\net6.0\ref\task_66.dll
